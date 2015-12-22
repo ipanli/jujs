@@ -1,6 +1,6 @@
 {
   "name": "jujs",
-  "description": "A javascript library",
+  "description": "A javascript library ,不依赖任何第三库",
   "version": "0.0.2",
   "author": "Julaud<julaudme@gmail.com>",
   "bugs": {
